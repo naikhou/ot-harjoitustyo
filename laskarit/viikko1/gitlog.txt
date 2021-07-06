@@ -1,0 +1,29 @@
+commit 1ef35ccbfe05cd849d8a14a2f0a8650a4eb95f25
+Author: Niko Oksanen <niko.s.oksanen@gmail.com>
+Date:   Tue Jul 6 18:23:15 2021 +0300
+
+    harjoittelua vika kohta
+
+ tiedostoja/file1.txt  | 0
+ tiedostoja/file2.txt  | 0
+ tiedostoja/file22.txt | 0
+ 3 files changed, 0 insertions(+), 0 deletions(-)
+
+commit 8455b8a3c111c785e97818dc5f5dcdb148af8ae6
+Author: Niko Oksanen <niko.s.oksanen@gmail.com>
+Date:   Tue Jul 6 18:19:55 2021 +0300
+
+    reenii
+
+ tiedostoja/file1.txt | 0
+ tiedostoja/file2.txt | 0
+ tiedostoja/file3.txt | 0
+ 3 files changed, 0 insertions(+), 0 deletions(-)
+
+commit b8bc7417ae12651249fc038f02eb27eac1a96d8c
+Author: Niko Oksanen <niko.s.oksanen@gmail.com>
+Date:   Tue Jul 6 17:24:39 2021 +0300
+
+    git add -p -kohta
+
+ eka.txt    | 2 +-
