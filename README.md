@@ -1,4 +1,4 @@
-# Tämä on repositorio nimeltä ot_harjoitustyö
+# Tämä on repositorio nimeltä ot_harjoitustyo
 
 ## Tässä vähän kokeilua...
 
