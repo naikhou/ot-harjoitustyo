@@ -8,3 +8,5 @@ Morjens, tämähän toimii. *Taivas* on **sininen** ja sitä rataa.
 [testitiedosto.txt](https://github.com/naikhou/ot-harjoitustyo/blob/master/laskarit/viikko1/testitiedosto.txt)
 
 _Tämä on **harjoittelua**_
+
+epäsynkrooni
