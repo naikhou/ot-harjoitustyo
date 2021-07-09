@@ -4,5 +4,5 @@
 
 Morjens, tämähän toimii. *Taivas* on **sininen** ja sitä rataa.
 
-http://github.com - automatic!
-[GitHub](http://github.com)
+[gitlog.txt](https://github.com/naikhou/ot-harjoitustyo/blob/master/laskarit/viikko1/gitlog.txt)
+[testitiedosto.txt](https://github.com/naikhou/ot-harjoitustyo/blob/master/laskarit/viikko1/testitiedosto.txt)
